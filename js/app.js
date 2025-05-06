@@ -1,5 +1,5 @@
 /* Core variables */
-const GH_ROOT = 'https://raw.githubusercontent.com/callumoulds/content/main/';
+const GH_ROOT = './';
 const NEWS = GH_ROOT + 'news.json';
 const HEROES = GH_ROOT + 'heroes.json';
 const META_CSV = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTpDvuy3SvWv4ANInvOlo1AVwo9QHr_cDQfKX0h7m7ZYK6gMEiO-4H6oIY4b0sCTdqeWMzoSgnLT37u/pub?output=csv';
